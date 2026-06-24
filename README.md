@@ -1,1 +1,3 @@
 # calculator-python
+it hepls in doing basic mathematical opertions like add subtract modulus divide multiplication etc
+it ofcourse help us all to do mathematics easilyyy...
